@@ -1,0 +1,39 @@
+13-mer c++
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,712s
+user	0m0,709s
+sys	0m0,002s
+
+13-mer python
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m39,784s
+user	1m39,629s
+sys	0m0,004s
+
+14-mer c++
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m3,162s
+user	0m3,158s
+sys	0m0,001s
+
+14-mer python
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m45,392s
+user	6m44,784s
+sys	0m0,003s
