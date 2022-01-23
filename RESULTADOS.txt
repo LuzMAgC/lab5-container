@@ -37,3 +37,48 @@ Finish!
 real	6m45,392s
 user	6m44,784s
 sys	0m0,003s
+
+
+
+Parte de Singularity
+
+13-mer c++
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real    0m1,662s
+user    0m0,805s
+sys     0m0,127s
+
+13-mer python
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real    1m33,782s
+user    1m33,336s
+sys     0m0,179s
+
+14-mer c++
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real    0m2,990s
+user    0m2,824s
+sys     0m0,125s
+
+14-mer python
+
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real    6m9,961s
+user    6m9,209s
+sys     0m0,183s
+
